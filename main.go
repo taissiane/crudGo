@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/taissiane/crudGo/routes"
+	"github.com/taissiane/crudGo/crudGo/routes"
 )
 
 func main() {
